@@ -1,0 +1,4 @@
+sha.c:27:6:sha256_transform	4
+sha.c:68:6:sha256_init	1
+sha.c:82:6:sha256_update	3
+sha.c:97:6:sha256_final	5

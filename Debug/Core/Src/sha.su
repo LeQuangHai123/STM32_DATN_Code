@@ -1,0 +1,4 @@
+../Core/Src/sha.c:27:6:sha256_transform	320	static
+../Core/Src/sha.c:68:6:sha256_init	16	static
+../Core/Src/sha.c:82:6:sha256_update	40	static
+../Core/Src/sha.c:97:6:sha256_final	40	static

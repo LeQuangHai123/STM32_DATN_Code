@@ -1,0 +1,3 @@
+CRC.c:3:6:build_crc16_table	4
+CRC.c:19:10:CRC16	2
+CRC.c:31:10:CRC16_Modbus	2
